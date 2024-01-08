@@ -22,8 +22,6 @@ let milesToMars = distanceToMars * milesPerKilometer;
 
 console.log(milesToMars);
 
-// 
-
 // Calculate a trip to the moon below
 
 let milesToMoon = distanceToMoon * milesPerKilometer;
